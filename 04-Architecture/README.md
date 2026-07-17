@@ -23,7 +23,23 @@ This folder contains system architecture documentation, technical designs, and s
 
 ## Contents
 
-TODO: No documents created yet.
+- [Architecture-Overview.md](./Architecture-Overview.md) — Executive architecture overview
+- [System-Architecture.md](./System-Architecture.md) — High-level system architecture
+- [Architecture-Principles.md](./Architecture-Principles.md) — Architectural principles
+- [Technology-Stack.md](./Technology-Stack.md) — Approved technology stack
+- [Monolith-Strategy.md](./Monolith-Strategy.md) — Modular monolith strategy
+- [Module-Architecture.md](./Module-Architecture.md) — Module organization
+- [Cross-Cutting-Concerns.md](./Cross-Cutting-Concerns.md) — Platform-wide concerns
+- [Architecture-Roadmap.md](./Architecture-Roadmap.md) — Architecture evolution by version
+- [Architecture-Constraints.md](./Architecture-Constraints.md) — Architectural constraints
+- [Quality-Attributes.md](./Quality-Attributes.md) — Quality goals
+- [Architecture-Impact-Matrix.md](./Architecture-Impact-Matrix.md) — Architecture traceability
+- [Extension-Architecture.md](./Extension-Architecture.md) — Extensibility architecture
+- [Module-Lifecycle.md](./Module-Lifecycle.md) — Module lifecycle
+- [Platform-Lifecycle.md](./Platform-Lifecycle.md) — Platform lifecycle
+- [Platform-Dependencies.md](./Platform-Dependencies.md) — Platform dependency rules
+- [Platform-Impact-Matrix.md](./Platform-Impact-Matrix.md) — Platform traceability
+- [Security/](./Security/) — Security architecture
 
 ## Status
 

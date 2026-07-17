@@ -123,7 +123,23 @@ Different document categories evolve at different rates:
 
 ### Architecture
 
-- TODO: Architecture documents pending
+- [Architecture Overview](./04-Architecture/Architecture-Overview.md)
+- [System Architecture](./04-Architecture/System-Architecture.md)
+- [Architecture Principles](./04-Architecture/Architecture-Principles.md)
+- [Technology Stack](./04-Architecture/Technology-Stack.md)
+- [Monolith Strategy](./04-Architecture/Monolith-Strategy.md)
+- [Module Architecture](./04-Architecture/Module-Architecture.md)
+- [Cross-Cutting Concerns](./04-Architecture/Cross-Cutting-Concerns.md)
+- [Architecture Roadmap](./04-Architecture/Architecture-Roadmap.md)
+- [Architecture Constraints](./04-Architecture/Architecture-Constraints.md)
+- [Quality Attributes](./04-Architecture/Quality-Attributes.md)
+- [Architecture Impact Matrix](./04-Architecture/Architecture-Impact-Matrix.md)
+- [Extension Architecture](./04-Architecture/Extension-Architecture.md)
+- [Module Lifecycle](./04-Architecture/Module-Lifecycle.md)
+- [Platform Lifecycle](./04-Architecture/Platform-Lifecycle.md)
+- [Platform Dependencies](./04-Architecture/Platform-Dependencies.md)
+- [Platform Impact Matrix](./04-Architecture/Platform-Impact-Matrix.md)
+- [Security Architecture](./04-Architecture/Security/Security-Architecture.md)
 
 ### Development
 

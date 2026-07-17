@@ -1,0 +1,44 @@
+# Security
+
+## Purpose
+
+This folder contains security architecture documentation for the Kairo platform. It defines the security model, trust boundaries, principles, and governance that protect the platform, its tenants, and the data they entrust to it.
+
+Security is an architectural concern. The documents here establish how security is structured, not how individual controls are configured. Implementation-level security guides, operational runbooks, and compliance procedures are documented elsewhere as they are created.
+
+## What Belongs Here
+
+- Security architecture and philosophy
+- Trust boundary definitions
+- Security principles and policies
+- Authentication and authorization architecture
+- Tenant isolation architecture
+- Data protection architecture
+- API security architecture
+- Event and messaging security architecture
+- Infrastructure security architecture
+- Security governance and responsibility model
+
+## What Does NOT Belong Here
+
+- Source code or security library implementations
+- Cloud-vendor-specific configuration (use infrastructure documentation)
+- Compliance audit reports or certifications (use compliance documentation)
+- Penetration test results (stored securely outside this repository)
+- Secret values, credentials, or keys (never stored in documentation)
+- Operational security runbooks (use operations documentation)
+- Module-specific security details (use `06-Modules`)
+
+## Recommended Reading Order
+
+| Order | Document | Purpose |
+|-------|----------|---------|
+| 1 | [Security Architecture](./Security-Architecture.md) | Foundation — security model, principles, and trust boundaries |
+
+## Contents
+
+- [Security-Architecture.md](./Security-Architecture.md) — Security architecture foundation
+
+## Status
+
+Status: Draft
