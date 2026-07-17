@@ -35,11 +35,13 @@ Security is an architectural concern. The documents here establish how security 
 |-------|----------|---------|
 | 1 | [Security Architecture](./Security-Architecture.md) | Foundation — security model, principles, and trust boundaries |
 | 2 | [Threat Model](./Threat-Model.md) | Threats, attack surfaces, and required controls |
+| 3 | [Identity and Authentication](./Identity-and-Authentication.md) | Identity categories, authentication mechanisms, and session architecture |
 
 ## Contents
 
 - [Security-Architecture.md](./Security-Architecture.md) — Security architecture foundation
 - [Threat-Model.md](./Threat-Model.md) — Platform-level threat model
+- [Identity-and-Authentication.md](./Identity-and-Authentication.md) — Identity and authentication architecture
 
 ## Status
 

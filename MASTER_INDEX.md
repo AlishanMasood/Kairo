@@ -141,6 +141,7 @@ Different document categories evolve at different rates:
 - [Platform Impact Matrix](./04-Architecture/Platform-Impact-Matrix.md)
 - [Security Architecture](./04-Architecture/Security/Security-Architecture.md)
 - [Threat Model](./04-Architecture/Security/Threat-Model.md)
+- [Identity and Authentication](./04-Architecture/Security/Identity-and-Authentication.md)
 
 ### Development
 
