@@ -140,6 +140,7 @@ Different document categories evolve at different rates:
 - [Platform Dependencies](./04-Architecture/Platform-Dependencies.md)
 - [Platform Impact Matrix](./04-Architecture/Platform-Impact-Matrix.md)
 - [Security Architecture](./04-Architecture/Security/Security-Architecture.md)
+- [Threat Model](./04-Architecture/Security/Threat-Model.md)
 
 ### Development
 

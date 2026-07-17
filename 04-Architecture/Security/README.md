@@ -34,10 +34,12 @@ Security is an architectural concern. The documents here establish how security 
 | Order | Document | Purpose |
 |-------|----------|---------|
 | 1 | [Security Architecture](./Security-Architecture.md) | Foundation — security model, principles, and trust boundaries |
+| 2 | [Threat Model](./Threat-Model.md) | Threats, attack surfaces, and required controls |
 
 ## Contents
 
 - [Security-Architecture.md](./Security-Architecture.md) — Security architecture foundation
+- [Threat-Model.md](./Threat-Model.md) — Platform-level threat model
 
 ## Status
 
