@@ -13,7 +13,7 @@
 | Created | 2026-07-17 |
 | Last Updated | 2026-07-17 |
 | Reviewers | TODO |
-| Related Documents | [Platform Core](../05-Platform-Core/Platform-Core.md), [System Architecture](./System-Architecture.md), [Kairo Platform](../02-Products/Kairo-Platform.md), [Glossary](../02-Products/Glossary.md), [Cross-Cutting Concerns](./Cross-Cutting-Concerns.md) |
+| Related Documents | [Platform Core](./Platform-Core.md), [System Architecture](../04-Architecture/System-Architecture.md), [Kairo Platform](../02-Products/Kairo-Platform.md), [Glossary](../02-Products/Glossary.md), [Cross-Cutting Concerns](../04-Architecture/Cross-Cutting-Concerns.md) |
 | Dependencies | None |
 
 ---

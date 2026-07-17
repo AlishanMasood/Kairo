@@ -23,6 +23,8 @@ This folder contains documentation defining the Kairo platform core — the shar
 ## Contents
 
 - [Platform-Core.md](./Platform-Core.md) — Platform core architecture definition
+- [Platform-Hierarchy.md](./Platform-Hierarchy.md) — Platform structural hierarchy
+- [Organization-Model.md](./Organization-Model.md) — Organization model and tenant boundary
 
 ## Status
 

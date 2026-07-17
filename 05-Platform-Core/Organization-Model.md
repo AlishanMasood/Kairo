@@ -13,7 +13,7 @@
 | Created | 2026-07-17 |
 | Last Updated | 2026-07-17 |
 | Reviewers | TODO |
-| Related Documents | [Platform Hierarchy](./Platform-Hierarchy.md), [Platform Core](../05-Platform-Core/Platform-Core.md), [System Architecture](./System-Architecture.md), [Cross-Cutting Concerns](./Cross-Cutting-Concerns.md), [Glossary](../02-Products/Glossary.md) |
+| Related Documents | [Platform Hierarchy](./Platform-Hierarchy.md), [Platform Core](./Platform-Core.md), [System Architecture](../04-Architecture/System-Architecture.md), [Cross-Cutting Concerns](../04-Architecture/Cross-Cutting-Concerns.md), [Glossary](../02-Products/Glossary.md) |
 | Dependencies | None |
 
 ---
