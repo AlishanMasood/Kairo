@@ -13,7 +13,7 @@
 | Created | 2026-07-17 |
 | Last Updated | 2026-07-17 |
 | Reviewers | TODO |
-| Related Documents | [Architecture Overview](./Architecture-Overview.md), [System Architecture](./System-Architecture.md), [Kairo Platform](../02-Products/Kairo-Platform.md), [Product Ecosystem](../02-Products/Product-Ecosystem.md), [Shared Capabilities](../03-Business-Capabilities/Shared-Capabilities.md), [Cross-Cutting Concerns](./Cross-Cutting-Concerns.md) |
+| Related Documents | [Architecture Overview](../04-Architecture/Architecture-Overview.md), [System Architecture](../04-Architecture/System-Architecture.md), [Kairo Platform](../02-Products/Kairo-Platform.md), [Product Ecosystem](../02-Products/Product-Ecosystem.md), [Shared Capabilities](../03-Business-Capabilities/Shared-Capabilities.md), [Cross-Cutting Concerns](../04-Architecture/Cross-Cutting-Concerns.md) |
 | Dependencies | None |
 
 ---
@@ -227,7 +227,7 @@ This document does not define:
 - Platform API contracts — documented in platform service API documentation.
 - Platform deployment topology — documented in infrastructure architecture.
 - Product-specific architecture — documented per product in their respective architecture documents.
-- Technology choices for platform services — documented in [Technology Stack](./Technology-Stack.md).
+- Technology choices for platform services — documented in [Technology Stack](../04-Architecture/Technology-Stack.md).
 
 ---
 
