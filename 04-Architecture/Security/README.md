@@ -39,6 +39,7 @@ Security is an architectural concern. The documents here establish how security 
 | 4 | [Authorization Architecture](./Authorization-Architecture.md) | Permission model, access control, and authorization enforcement |
 | 5 | [API Security](./API-Security.md) | API surface security, validation, rate limiting, and webhook security |
 | 6 | [Data Protection](./Data-Protection.md) | Data classification, encryption, retention, and handling rules |
+| 7 | [Secrets and Key Management](./Secrets-and-Key-Management.md) | Secret categories, storage, rotation, and key hierarchy |
 
 ## Contents
 
@@ -48,6 +49,7 @@ Security is an architectural concern. The documents here establish how security 
 - [Authorization-Architecture.md](./Authorization-Architecture.md) — Authorization and access control architecture
 - [API-Security.md](./API-Security.md) — API security architecture
 - [Data-Protection.md](./Data-Protection.md) — Data protection architecture
+- [Secrets-and-Key-Management.md](./Secrets-and-Key-Management.md) — Secrets and key management architecture
 
 ## Status
 
