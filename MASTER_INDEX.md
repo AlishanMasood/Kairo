@@ -159,6 +159,7 @@ Different document categories evolve at different rates:
 - [Tenant-Aware Authorization](./04-Architecture/Multi-Tenancy/Tenant-Aware-Authorization.md)
 - [Tenant Configuration](./04-Architecture/Multi-Tenancy/Tenant-Configuration.md)
 - [Tenant Lifecycle](./04-Architecture/Multi-Tenancy/Tenant-Lifecycle.md)
+- [Cross-Tenant Operations](./04-Architecture/Multi-Tenancy/Cross-Tenant-Operations.md)
 
 ### Development
 
