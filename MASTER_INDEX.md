@@ -170,6 +170,7 @@ Different document categories evolve at different rates:
 - [Data Modeling Principles](./04-Architecture/Data/Data-Modeling-Principles.md)
 - [Identifier Strategy](./04-Architecture/Data/Identifier-Strategy.md)
 - [Transaction and Consistency](./04-Architecture/Data/Transaction-and-Consistency-Architecture.md)
+- [Data Access and Persistence](./04-Architecture/Data/Data-Access-and-Persistence.md)
 
 ### Development
 
