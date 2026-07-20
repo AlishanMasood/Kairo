@@ -44,6 +44,7 @@ Security is an architectural concern. The documents here establish how security 
 | 9 | [Secure Development Lifecycle](./Secure-Development-Lifecycle.md) | Security activities, gates, testing, and AI agent constraints |
 | 10 | [Incident Response](./Incident-Response.md) | Incident classification, lifecycle, playbooks, and governance |
 | 11 | [Compliance Readiness](./Compliance-Readiness.md) | Compliance boundaries, readiness posture, and certification triggers |
+| 12 | [Security Impact Matrix](./Security-Impact-Matrix.md) | Master traceability, threat-to-control mapping, and implementation impact |
 
 ## Contents
 
@@ -58,6 +59,26 @@ Security is an architectural concern. The documents here establish how security 
 - [Secure-Development-Lifecycle.md](./Secure-Development-Lifecycle.md) — Secure development lifecycle
 - [Incident-Response.md](./Incident-Response.md) — Security incident response architecture
 - [Compliance-Readiness.md](./Compliance-Readiness.md) — Compliance readiness boundaries
+- [Security-Impact-Matrix.md](./Security-Impact-Matrix.md) — Security traceability and impact matrix
+
+## Phase Completion Status
+
+| Document | ID | Status | Complete |
+|----------|-----|--------|:--------:|
+| Security Architecture | KAI-SEC-001 | Draft | Yes |
+| Threat Model | KAI-SEC-002 | Draft | Yes |
+| Identity and Authentication | KAI-SEC-003 | Draft | Yes |
+| Authorization Architecture | KAI-SEC-004 | Draft | Yes |
+| API Security | KAI-SEC-005 | Draft | Yes |
+| Data Protection | KAI-SEC-006 | Draft | Yes |
+| Secrets and Key Management | KAI-SEC-007 | Draft | Yes |
+| Audit and Security Monitoring | KAI-SEC-008 | Draft | Yes |
+| Secure Development Lifecycle | KAI-SEC-009 | Draft | Yes |
+| Incident Response | KAI-SEC-010 | Draft | Yes |
+| Compliance Readiness | KAI-SEC-011 | Draft | Yes |
+| Security Impact Matrix | KAI-SEC-012 | Draft | Yes |
+
+All 12 security architecture documents are complete. The security architecture phase provides the foundation for V1 implementation. Documents remain in Draft status pending formal review and approval.
 
 ## Status
 

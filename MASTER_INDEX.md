@@ -150,6 +150,7 @@ Different document categories evolve at different rates:
 - [Secure Development Lifecycle](./04-Architecture/Security/Secure-Development-Lifecycle.md)
 - [Incident Response](./04-Architecture/Security/Incident-Response.md)
 - [Compliance Readiness](./04-Architecture/Security/Compliance-Readiness.md)
+- [Security Impact Matrix](./04-Architecture/Security/Security-Impact-Matrix.md)
 
 ### Development
 
