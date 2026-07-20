@@ -173,6 +173,7 @@ Different document categories evolve at different rates:
 - [Data Access and Persistence](./04-Architecture/Data/Data-Access-and-Persistence.md)
 - [Schema Evolution and Migrations](./04-Architecture/Data/Schema-Evolution-and-Migrations.md)
 - [Data Lifecycle and Retention](./04-Architecture/Data/Data-Lifecycle-and-Retention.md)
+- [Backup, Restore, and Disaster Recovery](./04-Architecture/Data/Backup-Restore-and-Disaster-Recovery.md)
 
 ### Development
 
