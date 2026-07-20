@@ -158,6 +158,7 @@ Different document categories evolve at different rates:
 - [Data Isolation Strategy](./04-Architecture/Multi-Tenancy/Data-Isolation-Strategy.md)
 - [Tenant-Aware Authorization](./04-Architecture/Multi-Tenancy/Tenant-Aware-Authorization.md)
 - [Tenant Configuration](./04-Architecture/Multi-Tenancy/Tenant-Configuration.md)
+- [Tenant Lifecycle](./04-Architecture/Multi-Tenancy/Tenant-Lifecycle.md)
 
 ### Development
 
