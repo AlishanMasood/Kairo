@@ -42,6 +42,7 @@ Security is an architectural concern. The documents here establish how security 
 | 7 | [Secrets and Key Management](./Secrets-and-Key-Management.md) | Secret categories, storage, rotation, and key hierarchy |
 | 8 | [Audit and Security Monitoring](./Audit-and-Security-Monitoring.md) | Audit events, detection, alerting, and investigation |
 | 9 | [Secure Development Lifecycle](./Secure-Development-Lifecycle.md) | Security activities, gates, testing, and AI agent constraints |
+| 10 | [Incident Response](./Incident-Response.md) | Incident classification, lifecycle, playbooks, and governance |
 
 ## Contents
 
@@ -54,6 +55,7 @@ Security is an architectural concern. The documents here establish how security 
 - [Secrets-and-Key-Management.md](./Secrets-and-Key-Management.md) — Secrets and key management architecture
 - [Audit-and-Security-Monitoring.md](./Audit-and-Security-Monitoring.md) — Audit and security monitoring architecture
 - [Secure-Development-Lifecycle.md](./Secure-Development-Lifecycle.md) — Secure development lifecycle
+- [Incident-Response.md](./Incident-Response.md) — Security incident response architecture
 
 ## Status
 

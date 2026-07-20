@@ -148,6 +148,7 @@ Different document categories evolve at different rates:
 - [Secrets and Key Management](./04-Architecture/Security/Secrets-and-Key-Management.md)
 - [Audit and Security Monitoring](./04-Architecture/Security/Audit-and-Security-Monitoring.md)
 - [Secure Development Lifecycle](./04-Architecture/Security/Secure-Development-Lifecycle.md)
+- [Incident Response](./04-Architecture/Security/Incident-Response.md)
 
 ### Development
 
