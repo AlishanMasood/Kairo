@@ -177,6 +177,7 @@ Different document categories evolve at different rates:
 - [Reporting and Analytics Architecture](./04-Architecture/Data/Reporting-and-Analytics-Architecture.md)
 - [Data Quality and Governance](./04-Architecture/Data/Data-Quality-and-Governance.md)
 - [Data Impact Matrix](./04-Architecture/Data/Data-Impact-Matrix.md)
+- [Data Architecture Phase Review](./04-Architecture/Data/Phase-Review.md)
 
 ### Development
 
