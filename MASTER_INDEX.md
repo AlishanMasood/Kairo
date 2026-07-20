@@ -165,6 +165,7 @@ Different document categories evolve at different rates:
 - [Multi-Tenancy Impact Matrix](./04-Architecture/Multi-Tenancy/Multi-Tenancy-Impact-Matrix.md)
 - [Multi-Tenancy Phase Review](./04-Architecture/Multi-Tenancy/Phase-Review.md)
 - [Data Architecture](./04-Architecture/Data/Data-Architecture.md)
+- [Data Ownership](./04-Architecture/Data/Data-Ownership.md)
 
 ### Development
 
