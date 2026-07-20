@@ -171,6 +171,7 @@ Different document categories evolve at different rates:
 - [Identifier Strategy](./04-Architecture/Data/Identifier-Strategy.md)
 - [Transaction and Consistency](./04-Architecture/Data/Transaction-and-Consistency-Architecture.md)
 - [Data Access and Persistence](./04-Architecture/Data/Data-Access-and-Persistence.md)
+- [Schema Evolution and Migrations](./04-Architecture/Data/Schema-Evolution-and-Migrations.md)
 
 ### Development
 
