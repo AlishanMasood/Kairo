@@ -38,6 +38,7 @@ Data architecture bridges business capabilities and implementation. It establish
 | 3 | [Data Classification and Sensitivity](./Data-Classification-and-Sensitivity.md) | Classification model, handling rules, and per-surface responsibilities |
 | 4 | [Data Modeling Principles](./Data-Modeling-Principles.md) | Logical modeling principles, domain patterns, and consistency rules |
 | 5 | [Identifier Strategy](./Identifier-Strategy.md) | Resource identifiers, generation approach, and mapping rules |
+| 6 | [Transaction and Consistency](./Transaction-and-Consistency-Architecture.md) | Transactional boundaries, consistency models, and failure handling |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -55,6 +56,7 @@ Before reading this folder, the following documents should be understood:
 - [Data-Classification-and-Sensitivity.md](./Data-Classification-and-Sensitivity.md) — Data classification and sensitivity model
 - [Data-Modeling-Principles.md](./Data-Modeling-Principles.md) — Data modeling principles
 - [Identifier-Strategy.md](./Identifier-Strategy.md) — Platform identifier strategy
+- [Transaction-and-Consistency-Architecture.md](./Transaction-and-Consistency-Architecture.md) — Transaction and consistency architecture
 
 ## Lifecycle Status
 

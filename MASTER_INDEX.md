@@ -169,6 +169,7 @@ Different document categories evolve at different rates:
 - [Data Classification and Sensitivity](./04-Architecture/Data/Data-Classification-and-Sensitivity.md)
 - [Data Modeling Principles](./04-Architecture/Data/Data-Modeling-Principles.md)
 - [Identifier Strategy](./04-Architecture/Data/Identifier-Strategy.md)
+- [Transaction and Consistency](./04-Architecture/Data/Transaction-and-Consistency-Architecture.md)
 
 ### Development
 
