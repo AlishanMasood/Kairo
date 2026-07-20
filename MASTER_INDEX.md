@@ -162,6 +162,7 @@ Different document categories evolve at different rates:
 - [Cross-Tenant Operations](./04-Architecture/Multi-Tenancy/Cross-Tenant-Operations.md)
 - [Tenant Scaling and Placement](./04-Architecture/Multi-Tenancy/Tenant-Scaling-and-Placement.md)
 - [Tenant Testing Strategy](./04-Architecture/Multi-Tenancy/Tenant-Testing-Strategy.md)
+- [Multi-Tenancy Impact Matrix](./04-Architecture/Multi-Tenancy/Multi-Tenancy-Impact-Matrix.md)
 
 ### Development
 
