@@ -43,6 +43,7 @@ Security is an architectural concern. The documents here establish how security 
 | 8 | [Audit and Security Monitoring](./Audit-and-Security-Monitoring.md) | Audit events, detection, alerting, and investigation |
 | 9 | [Secure Development Lifecycle](./Secure-Development-Lifecycle.md) | Security activities, gates, testing, and AI agent constraints |
 | 10 | [Incident Response](./Incident-Response.md) | Incident classification, lifecycle, playbooks, and governance |
+| 11 | [Compliance Readiness](./Compliance-Readiness.md) | Compliance boundaries, readiness posture, and certification triggers |
 
 ## Contents
 
@@ -56,6 +57,7 @@ Security is an architectural concern. The documents here establish how security 
 - [Audit-and-Security-Monitoring.md](./Audit-and-Security-Monitoring.md) — Audit and security monitoring architecture
 - [Secure-Development-Lifecycle.md](./Secure-Development-Lifecycle.md) — Secure development lifecycle
 - [Incident-Response.md](./Incident-Response.md) — Security incident response architecture
+- [Compliance-Readiness.md](./Compliance-Readiness.md) — Compliance readiness boundaries
 
 ## Status
 
