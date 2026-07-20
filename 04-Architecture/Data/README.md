@@ -44,6 +44,7 @@ Data architecture bridges business capabilities and implementation. It establish
 | 9 | [Data Lifecycle and Retention](./Data-Lifecycle-and-Retention.md) | Lifecycle stages, retention, deletion propagation, and disposal |
 | 10 | [Backup, Restore, and Disaster Recovery](./Backup-Restore-and-Disaster-Recovery.md) | Backup scope, recovery objectives, and failure scenarios |
 | 11 | [Reporting and Analytics Architecture](./Reporting-and-Analytics-Architecture.md) | Reporting categories, analytical workload separation, and future data products |
+| 12 | [Data Quality and Governance](./Data-Quality-and-Governance.md) | Quality dimensions, stewardship, governance processes, and maturity direction |
 
 ## Prerequisites
 
@@ -68,6 +69,7 @@ Before reading this folder, the following documents should be understood:
 - [Data-Lifecycle-and-Retention.md](./Data-Lifecycle-and-Retention.md) — Data lifecycle and retention architecture
 - [Backup-Restore-and-Disaster-Recovery.md](./Backup-Restore-and-Disaster-Recovery.md) — Backup, restore, and disaster recovery architecture
 - [Reporting-and-Analytics-Architecture.md](./Reporting-and-Analytics-Architecture.md) — Reporting and analytics data architecture
+- [Data-Quality-and-Governance.md](./Data-Quality-and-Governance.md) — Data quality, stewardship, and governance architecture
 
 ## Lifecycle Status
 
