@@ -41,6 +41,7 @@ Security is an architectural concern. The documents here establish how security 
 | 6 | [Data Protection](./Data-Protection.md) | Data classification, encryption, retention, and handling rules |
 | 7 | [Secrets and Key Management](./Secrets-and-Key-Management.md) | Secret categories, storage, rotation, and key hierarchy |
 | 8 | [Audit and Security Monitoring](./Audit-and-Security-Monitoring.md) | Audit events, detection, alerting, and investigation |
+| 9 | [Secure Development Lifecycle](./Secure-Development-Lifecycle.md) | Security activities, gates, testing, and AI agent constraints |
 
 ## Contents
 
@@ -52,6 +53,7 @@ Security is an architectural concern. The documents here establish how security 
 - [Data-Protection.md](./Data-Protection.md) — Data protection architecture
 - [Secrets-and-Key-Management.md](./Secrets-and-Key-Management.md) — Secrets and key management architecture
 - [Audit-and-Security-Monitoring.md](./Audit-and-Security-Monitoring.md) — Audit and security monitoring architecture
+- [Secure-Development-Lifecycle.md](./Secure-Development-Lifecycle.md) — Secure development lifecycle
 
 ## Status
 
