@@ -37,6 +37,7 @@ Security is an architectural concern. The documents here establish how security 
 | 2 | [Threat Model](./Threat-Model.md) | Threats, attack surfaces, and required controls |
 | 3 | [Identity and Authentication](./Identity-and-Authentication.md) | Identity categories, authentication mechanisms, and session architecture |
 | 4 | [Authorization Architecture](./Authorization-Architecture.md) | Permission model, access control, and authorization enforcement |
+| 5 | [API Security](./API-Security.md) | API surface security, validation, rate limiting, and webhook security |
 
 ## Contents
 
@@ -44,6 +45,7 @@ Security is an architectural concern. The documents here establish how security 
 - [Threat-Model.md](./Threat-Model.md) — Platform-level threat model
 - [Identity-and-Authentication.md](./Identity-and-Authentication.md) — Identity and authentication architecture
 - [Authorization-Architecture.md](./Authorization-Architecture.md) — Authorization and access control architecture
+- [API-Security.md](./API-Security.md) — API security architecture
 
 ## Status
 

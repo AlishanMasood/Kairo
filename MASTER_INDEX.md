@@ -143,6 +143,7 @@ Different document categories evolve at different rates:
 - [Threat Model](./04-Architecture/Security/Threat-Model.md)
 - [Identity and Authentication](./04-Architecture/Security/Identity-and-Authentication.md)
 - [Authorization Architecture](./04-Architecture/Security/Authorization-Architecture.md)
+- [API Security](./04-Architecture/Security/API-Security.md)
 
 ### Development
 
