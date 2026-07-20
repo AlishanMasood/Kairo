@@ -34,6 +34,7 @@ Multi-tenancy is a foundational architectural concern. It determines how data is
 | 4 | [Tenant Isolation](./Tenant-Isolation.md) | Defence-in-depth isolation across all platform layers |
 | 5 | [Data Isolation Strategy](./Data-Isolation-Strategy.md) | Storage models, V1 decision, and evolution path |
 | 6 | [Tenant-Aware Authorization](./Tenant-Aware-Authorization.md) | Authorization rules across tenant boundaries |
+| 7 | [Tenant Configuration](./Tenant-Configuration.md) | Configuration inheritance, overrides, and tenant safety |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -52,6 +53,7 @@ Before reading this folder, the following documents should be understood:
 - [Tenant-Isolation.md](./Tenant-Isolation.md) — Tenant isolation architecture
 - [Data-Isolation-Strategy.md](./Data-Isolation-Strategy.md) — Tenant data isolation strategy
 - [Tenant-Aware-Authorization.md](./Tenant-Aware-Authorization.md) — Tenant-aware authorization
+- [Tenant-Configuration.md](./Tenant-Configuration.md) — Tenant configuration architecture
 
 ## Lifecycle Status
 
