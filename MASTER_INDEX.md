@@ -160,6 +160,7 @@ Different document categories evolve at different rates:
 - [Tenant Configuration](./04-Architecture/Multi-Tenancy/Tenant-Configuration.md)
 - [Tenant Lifecycle](./04-Architecture/Multi-Tenancy/Tenant-Lifecycle.md)
 - [Cross-Tenant Operations](./04-Architecture/Multi-Tenancy/Cross-Tenant-Operations.md)
+- [Tenant Scaling and Placement](./04-Architecture/Multi-Tenancy/Tenant-Scaling-and-Placement.md)
 
 ### Development
 

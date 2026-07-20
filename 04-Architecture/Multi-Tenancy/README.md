@@ -37,6 +37,7 @@ Multi-tenancy is a foundational architectural concern. It determines how data is
 | 7 | [Tenant Configuration](./Tenant-Configuration.md) | Configuration inheritance, overrides, and tenant safety |
 | 8 | [Tenant Lifecycle](./Tenant-Lifecycle.md) | Lifecycle stages, transitions, suspension, deletion, and restoration |
 | 9 | [Cross-Tenant Operations](./Cross-Tenant-Operations.md) | When cross-tenant access is allowed, restricted, or prohibited |
+| 10 | [Tenant Scaling and Placement](./Tenant-Scaling-and-Placement.md) | Scaling strategy, placement evolution, and noisy-neighbor mitigation |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -58,6 +59,7 @@ Before reading this folder, the following documents should be understood:
 - [Tenant-Configuration.md](./Tenant-Configuration.md) — Tenant configuration architecture
 - [Tenant-Lifecycle.md](./Tenant-Lifecycle.md) — Tenant lifecycle architecture
 - [Cross-Tenant-Operations.md](./Cross-Tenant-Operations.md) — Cross-tenant operation controls
+- [Tenant-Scaling-and-Placement.md](./Tenant-Scaling-and-Placement.md) — Tenant scaling and placement strategy
 
 ## Lifecycle Status
 
