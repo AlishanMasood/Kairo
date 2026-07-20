@@ -164,6 +164,7 @@ Different document categories evolve at different rates:
 - [Tenant Testing Strategy](./04-Architecture/Multi-Tenancy/Tenant-Testing-Strategy.md)
 - [Multi-Tenancy Impact Matrix](./04-Architecture/Multi-Tenancy/Multi-Tenancy-Impact-Matrix.md)
 - [Multi-Tenancy Phase Review](./04-Architecture/Multi-Tenancy/Phase-Review.md)
+- [Data Architecture](./04-Architecture/Data/Data-Architecture.md)
 
 ### Development
 

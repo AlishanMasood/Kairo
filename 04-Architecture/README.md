@@ -41,6 +41,7 @@ This folder contains system architecture documentation, technical designs, and s
 - [Platform-Impact-Matrix.md](./Platform-Impact-Matrix.md) — Platform traceability
 - [Security/](./Security/) — Security architecture
 - [Multi-Tenancy/](./Multi-Tenancy/) — Multi-tenancy architecture
+- [Data/](./Data/) — Data architecture
 
 ## Status
 
