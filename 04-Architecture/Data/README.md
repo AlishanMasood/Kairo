@@ -36,6 +36,7 @@ Data architecture bridges business capabilities and implementation. It establish
 |-------|----------|---------|
 | 1 | [Data Architecture](./Data-Architecture.md) | Foundation — data ownership, principles, categories, and evolution || 2 | [Data Ownership](./Data-Ownership.md) | Authoritative ownership rules, boundaries, and lifecycle |
 | 3 | [Data Classification and Sensitivity](./Data-Classification-and-Sensitivity.md) | Classification model, handling rules, and per-surface responsibilities |
+| 4 | [Data Modeling Principles](./Data-Modeling-Principles.md) | Logical modeling principles, domain patterns, and consistency rules |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -51,6 +52,7 @@ Before reading this folder, the following documents should be understood:
 - [Data-Architecture.md](./Data-Architecture.md) — Data architecture foundation
 - [Data-Ownership.md](./Data-Ownership.md) — Data ownership and boundaries
 - [Data-Classification-and-Sensitivity.md](./Data-Classification-and-Sensitivity.md) — Data classification and sensitivity model
+- [Data-Modeling-Principles.md](./Data-Modeling-Principles.md) — Data modeling principles
 
 ## Lifecycle Status
 
