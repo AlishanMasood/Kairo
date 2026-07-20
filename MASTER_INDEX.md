@@ -166,6 +166,7 @@ Different document categories evolve at different rates:
 - [Multi-Tenancy Phase Review](./04-Architecture/Multi-Tenancy/Phase-Review.md)
 - [Data Architecture](./04-Architecture/Data/Data-Architecture.md)
 - [Data Ownership](./04-Architecture/Data/Data-Ownership.md)
+- [Data Classification and Sensitivity](./04-Architecture/Data/Data-Classification-and-Sensitivity.md)
 
 ### Development
 
