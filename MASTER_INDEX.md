@@ -151,6 +151,7 @@ Different document categories evolve at different rates:
 - [Incident Response](./04-Architecture/Security/Incident-Response.md)
 - [Compliance Readiness](./04-Architecture/Security/Compliance-Readiness.md)
 - [Security Impact Matrix](./04-Architecture/Security/Security-Impact-Matrix.md)
+- [Multi-Tenancy Architecture](./04-Architecture/Multi-Tenancy/Multi-Tenancy-Architecture.md)
 
 ### Development
 

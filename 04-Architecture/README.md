@@ -40,6 +40,7 @@ This folder contains system architecture documentation, technical designs, and s
 - [Platform-Dependencies.md](./Platform-Dependencies.md) — Platform dependency rules
 - [Platform-Impact-Matrix.md](./Platform-Impact-Matrix.md) — Platform traceability
 - [Security/](./Security/) — Security architecture
+- [Multi-Tenancy/](./Multi-Tenancy/) — Multi-tenancy architecture
 
 ## Status
 
