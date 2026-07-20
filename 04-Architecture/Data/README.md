@@ -41,6 +41,7 @@ Data architecture bridges business capabilities and implementation. It establish
 | 6 | [Transaction and Consistency](./Transaction-and-Consistency-Architecture.md) | Transactional boundaries, consistency models, and failure handling |
 | 7 | [Data Access and Persistence](./Data-Access-and-Persistence.md) | Persistence patterns, ORM/SQL usage, and query safety |
 | 8 | [Schema Evolution and Migrations](./Schema-Evolution-and-Migrations.md) | Migration categories, compatibility, and zero-downtime strategy |
+| 9 | [Data Lifecycle and Retention](./Data-Lifecycle-and-Retention.md) | Lifecycle stages, retention, deletion propagation, and disposal |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -61,6 +62,7 @@ Before reading this folder, the following documents should be understood:
 - [Transaction-and-Consistency-Architecture.md](./Transaction-and-Consistency-Architecture.md) — Transaction and consistency architecture
 - [Data-Access-and-Persistence.md](./Data-Access-and-Persistence.md) — Data access and persistence architecture
 - [Schema-Evolution-and-Migrations.md](./Schema-Evolution-and-Migrations.md) — Schema evolution and migration architecture
+- [Data-Lifecycle-and-Retention.md](./Data-Lifecycle-and-Retention.md) — Data lifecycle and retention architecture
 
 ## Lifecycle Status
 

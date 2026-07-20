@@ -172,6 +172,7 @@ Different document categories evolve at different rates:
 - [Transaction and Consistency](./04-Architecture/Data/Transaction-and-Consistency-Architecture.md)
 - [Data Access and Persistence](./04-Architecture/Data/Data-Access-and-Persistence.md)
 - [Schema Evolution and Migrations](./04-Architecture/Data/Schema-Evolution-and-Migrations.md)
+- [Data Lifecycle and Retention](./04-Architecture/Data/Data-Lifecycle-and-Retention.md)
 
 ### Development
 
