@@ -168,6 +168,7 @@ Different document categories evolve at different rates:
 - [Data Ownership](./04-Architecture/Data/Data-Ownership.md)
 - [Data Classification and Sensitivity](./04-Architecture/Data/Data-Classification-and-Sensitivity.md)
 - [Data Modeling Principles](./04-Architecture/Data/Data-Modeling-Principles.md)
+- [Identifier Strategy](./04-Architecture/Data/Identifier-Strategy.md)
 
 ### Development
 
