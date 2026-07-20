@@ -146,6 +146,7 @@ Different document categories evolve at different rates:
 - [API Security](./04-Architecture/Security/API-Security.md)
 - [Data Protection](./04-Architecture/Security/Data-Protection.md)
 - [Secrets and Key Management](./04-Architecture/Security/Secrets-and-Key-Management.md)
+- [Audit and Security Monitoring](./04-Architecture/Security/Audit-and-Security-Monitoring.md)
 
 ### Development
 
