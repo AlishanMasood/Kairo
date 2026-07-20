@@ -31,6 +31,7 @@ Multi-tenancy is a foundational architectural concern. It determines how data is
 |-------|----------|---------|
 | 1 | [Multi-Tenancy Architecture](./Multi-Tenancy-Architecture.md) | Foundation — tenant boundaries, isolation, and context propagation || 2 | [Tenant Hierarchy](./Tenant-Hierarchy.md) | Scope model, resource ownership, and hierarchy rules |
 | 3 | [Tenant Resolution](./Tenant-Resolution.md) | Context resolution, validation, propagation, and failure behavior |
+| 4 | [Tenant Isolation](./Tenant-Isolation.md) | Defence-in-depth isolation across all platform layers |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -46,6 +47,7 @@ Before reading this folder, the following documents should be understood:
 - [Multi-Tenancy-Architecture.md](./Multi-Tenancy-Architecture.md) — Multi-tenancy architecture foundation
 - [Tenant-Hierarchy.md](./Tenant-Hierarchy.md) — Tenant hierarchy and scope model
 - [Tenant-Resolution.md](./Tenant-Resolution.md) — Tenant resolution architecture
+- [Tenant-Isolation.md](./Tenant-Isolation.md) — Tenant isolation architecture
 
 ## Lifecycle Status
 

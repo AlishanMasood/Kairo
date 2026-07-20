@@ -154,6 +154,7 @@ Different document categories evolve at different rates:
 - [Multi-Tenancy Architecture](./04-Architecture/Multi-Tenancy/Multi-Tenancy-Architecture.md)
 - [Tenant Hierarchy](./04-Architecture/Multi-Tenancy/Tenant-Hierarchy.md)
 - [Tenant Resolution](./04-Architecture/Multi-Tenancy/Tenant-Resolution.md)
+- [Tenant Isolation](./04-Architecture/Multi-Tenancy/Tenant-Isolation.md)
 
 ### Development
 
