@@ -187,6 +187,7 @@ Different document categories evolve at different rates:
 - [API Versioning and Compatibility](./04-Architecture/API/API-Versioning-and-Compatibility.md)
 - [Pagination, Filtering, Sorting, and Search](./04-Architecture/API/Pagination-Filtering-Sorting-and-Search.md)
 - [Idempotency, Concurrency, and Retries](./04-Architecture/API/Idempotency-Concurrency-and-Retries.md)
+- [Bulk and Asynchronous Operations](./04-Architecture/API/Bulk-and-Asynchronous-Operations.md)
 
 ### Development
 

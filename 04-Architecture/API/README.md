@@ -42,6 +42,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 7 | [API Versioning and Compatibility](./API-Versioning-and-Compatibility.md) | Versioning strategy, breaking changes, deprecation, retirement |
 | 8 | [Pagination, Filtering, Sorting, and Search](./Pagination-Filtering-Sorting-and-Search.md) | Collection queries, pagination, filtering, sorting, search |
 | 9 | [Idempotency, Concurrency, and Retries](./Idempotency-Concurrency-and-Retries.md) | Idempotency keys, concurrency control, retry semantics |
+| 10 | [Bulk and Asynchronous Operations](./Bulk-and-Asynchronous-Operations.md) | Bulk processing, async lifecycle, imports, exports |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -65,6 +66,7 @@ Before reading this folder, the following documents should be understood:
 - [API-Versioning-and-Compatibility.md](./API-Versioning-and-Compatibility.md) — Versioning, compatibility, deprecation, and retirement
 - [Pagination-Filtering-Sorting-and-Search.md](./Pagination-Filtering-Sorting-and-Search.md) — Collection query standards
 - [Idempotency-Concurrency-and-Retries.md](./Idempotency-Concurrency-and-Retries.md) — Idempotency, concurrency control, and retry architecture
+- [Bulk-and-Asynchronous-Operations.md](./Bulk-and-Asynchronous-Operations.md) — Bulk processing and asynchronous operations
 
 ## Lifecycle Status
 
