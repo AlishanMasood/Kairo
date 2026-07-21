@@ -34,8 +34,7 @@ API architecture bridges business capabilities and developer experience. It esta
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| 1 | [API Architecture](./API-Architecture.md) | Foundation — philosophy, surfaces, principles, ownership |
-
+| 1 | [API Architecture](./API-Architecture.md) | Foundation — philosophy, surfaces, principles, ownership || 2 | [API Surfaces and Boundaries](./API-Surfaces-and-Boundaries.md) | Surfaces, consumers, trust levels, and boundary enforcement |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -51,6 +50,7 @@ Before reading this folder, the following documents should be understood:
 ## Contents
 
 - [API-Architecture.md](./API-Architecture.md) — API architecture foundation
+- [API-Surfaces-and-Boundaries.md](./API-Surfaces-and-Boundaries.md) — API surfaces, consumers, trust levels, and boundaries
 
 ## Lifecycle Status
 
