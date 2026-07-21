@@ -190,6 +190,7 @@ Different document categories evolve at different rates:
 - [Bulk and Asynchronous Operations](./04-Architecture/API/Bulk-and-Asynchronous-Operations.md)
 - [Webhook Architecture](./04-Architecture/API/Webhook-Architecture.md)
 - [API Documentation and SDK Architecture](./04-Architecture/API/API-Documentation-and-SDK-Architecture.md)
+- [API Governance and Lifecycle](./04-Architecture/API/API-Governance-and-Lifecycle.md)
 
 ### Development
 

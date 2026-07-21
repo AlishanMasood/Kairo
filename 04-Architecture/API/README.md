@@ -45,6 +45,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 10 | [Bulk and Asynchronous Operations](./Bulk-and-Asynchronous-Operations.md) | Bulk processing, async lifecycle, imports, exports |
 | 11 | [Webhook Architecture](./Webhook-Architecture.md) | Outbound and inbound webhook delivery, signing, retry |
 | 12 | [API Documentation and SDK Architecture](./API-Documentation-and-SDK-Architecture.md) | Documentation, discoverability, SDKs, developer portal |
+| 13 | [API Governance and Lifecycle](./API-Governance-and-Lifecycle.md) | Ownership, reviews, release gates, deprecation, retirement |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -71,6 +72,7 @@ Before reading this folder, the following documents should be understood:
 - [Bulk-and-Asynchronous-Operations.md](./Bulk-and-Asynchronous-Operations.md) — Bulk processing and asynchronous operations
 - [Webhook-Architecture.md](./Webhook-Architecture.md) — Inbound and outbound webhook architecture
 - [API-Documentation-and-SDK-Architecture.md](./API-Documentation-and-SDK-Architecture.md) — Documentation, SDKs, and developer portal architecture
+- [API-Governance-and-Lifecycle.md](./API-Governance-and-Lifecycle.md) — API governance, ownership, and lifecycle management
 
 ## Lifecycle Status
 
