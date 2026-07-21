@@ -42,6 +42,7 @@ This folder contains system architecture documentation, technical designs, and s
 - [Security/](./Security/) — Security architecture
 - [Multi-Tenancy/](./Multi-Tenancy/) — Multi-tenancy architecture
 - [Data/](./Data/) — Data architecture
+- [API/](./API/) — API architecture
 
 ## Status
 
