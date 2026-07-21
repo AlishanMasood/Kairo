@@ -188,6 +188,7 @@ Different document categories evolve at different rates:
 - [Pagination, Filtering, Sorting, and Search](./04-Architecture/API/Pagination-Filtering-Sorting-and-Search.md)
 - [Idempotency, Concurrency, and Retries](./04-Architecture/API/Idempotency-Concurrency-and-Retries.md)
 - [Bulk and Asynchronous Operations](./04-Architecture/API/Bulk-and-Asynchronous-Operations.md)
+- [Webhook Architecture](./04-Architecture/API/Webhook-Architecture.md)
 
 ### Development
 

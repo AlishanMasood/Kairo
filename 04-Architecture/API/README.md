@@ -43,6 +43,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 8 | [Pagination, Filtering, Sorting, and Search](./Pagination-Filtering-Sorting-and-Search.md) | Collection queries, pagination, filtering, sorting, search |
 | 9 | [Idempotency, Concurrency, and Retries](./Idempotency-Concurrency-and-Retries.md) | Idempotency keys, concurrency control, retry semantics |
 | 10 | [Bulk and Asynchronous Operations](./Bulk-and-Asynchronous-Operations.md) | Bulk processing, async lifecycle, imports, exports |
+| 11 | [Webhook Architecture](./Webhook-Architecture.md) | Outbound and inbound webhook delivery, signing, retry |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -67,6 +68,7 @@ Before reading this folder, the following documents should be understood:
 - [Pagination-Filtering-Sorting-and-Search.md](./Pagination-Filtering-Sorting-and-Search.md) — Collection query standards
 - [Idempotency-Concurrency-and-Retries.md](./Idempotency-Concurrency-and-Retries.md) — Idempotency, concurrency control, and retry architecture
 - [Bulk-and-Asynchronous-Operations.md](./Bulk-and-Asynchronous-Operations.md) — Bulk processing and asynchronous operations
+- [Webhook-Architecture.md](./Webhook-Architecture.md) — Inbound and outbound webhook architecture
 
 ## Lifecycle Status
 
