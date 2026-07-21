@@ -183,6 +183,7 @@ Different document categories evolve at different rates:
 - [API Contract Standards](./04-Architecture/API/API-Contract-Standards.md)
 - [Resource and Operation Modeling](./04-Architecture/API/Resource-and-Operation-Modeling.md)
 - [Request and Response Standards](./04-Architecture/API/Request-and-Response-Standards.md)
+- [Error Architecture](./04-Architecture/API/Error-Architecture.md)
 
 ### Development
 
