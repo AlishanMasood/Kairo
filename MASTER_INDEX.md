@@ -185,6 +185,7 @@ Different document categories evolve at different rates:
 - [Request and Response Standards](./04-Architecture/API/Request-and-Response-Standards.md)
 - [Error Architecture](./04-Architecture/API/Error-Architecture.md)
 - [API Versioning and Compatibility](./04-Architecture/API/API-Versioning-and-Compatibility.md)
+- [Pagination, Filtering, Sorting, and Search](./04-Architecture/API/Pagination-Filtering-Sorting-and-Search.md)
 
 ### Development
 

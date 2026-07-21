@@ -40,6 +40,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 5 | [Request and Response Standards](./Request-and-Response-Standards.md) | Envelope, status codes, errors, collections, async responses |
 | 6 | [Error Architecture](./Error-Architecture.md) | Error categories, codes, retryability, disclosure, and safety |
 | 7 | [API Versioning and Compatibility](./API-Versioning-and-Compatibility.md) | Versioning strategy, breaking changes, deprecation, retirement |
+| 8 | [Pagination, Filtering, Sorting, and Search](./Pagination-Filtering-Sorting-and-Search.md) | Collection queries, pagination, filtering, sorting, search |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -61,6 +62,7 @@ Before reading this folder, the following documents should be understood:
 - [Request-and-Response-Standards.md](./Request-and-Response-Standards.md) — Request and response standards
 - [Error-Architecture.md](./Error-Architecture.md) — Error categories, codes, and failure semantics
 - [API-Versioning-and-Compatibility.md](./API-Versioning-and-Compatibility.md) — Versioning, compatibility, deprecation, and retirement
+- [Pagination-Filtering-Sorting-and-Search.md](./Pagination-Filtering-Sorting-and-Search.md) — Collection query standards
 
 ## Lifecycle Status
 
