@@ -189,6 +189,7 @@ Different document categories evolve at different rates:
 - [Idempotency, Concurrency, and Retries](./04-Architecture/API/Idempotency-Concurrency-and-Retries.md)
 - [Bulk and Asynchronous Operations](./04-Architecture/API/Bulk-and-Asynchronous-Operations.md)
 - [Webhook Architecture](./04-Architecture/API/Webhook-Architecture.md)
+- [API Documentation and SDK Architecture](./04-Architecture/API/API-Documentation-and-SDK-Architecture.md)
 
 ### Development
 

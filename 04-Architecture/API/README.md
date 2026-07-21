@@ -44,6 +44,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 9 | [Idempotency, Concurrency, and Retries](./Idempotency-Concurrency-and-Retries.md) | Idempotency keys, concurrency control, retry semantics |
 | 10 | [Bulk and Asynchronous Operations](./Bulk-and-Asynchronous-Operations.md) | Bulk processing, async lifecycle, imports, exports |
 | 11 | [Webhook Architecture](./Webhook-Architecture.md) | Outbound and inbound webhook delivery, signing, retry |
+| 12 | [API Documentation and SDK Architecture](./API-Documentation-and-SDK-Architecture.md) | Documentation, discoverability, SDKs, developer portal |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -69,6 +70,7 @@ Before reading this folder, the following documents should be understood:
 - [Idempotency-Concurrency-and-Retries.md](./Idempotency-Concurrency-and-Retries.md) — Idempotency, concurrency control, and retry architecture
 - [Bulk-and-Asynchronous-Operations.md](./Bulk-and-Asynchronous-Operations.md) — Bulk processing and asynchronous operations
 - [Webhook-Architecture.md](./Webhook-Architecture.md) — Inbound and outbound webhook architecture
+- [API-Documentation-and-SDK-Architecture.md](./API-Documentation-and-SDK-Architecture.md) — Documentation, SDKs, and developer portal architecture
 
 ## Lifecycle Status
 
