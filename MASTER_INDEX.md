@@ -184,6 +184,7 @@ Different document categories evolve at different rates:
 - [Resource and Operation Modeling](./04-Architecture/API/Resource-and-Operation-Modeling.md)
 - [Request and Response Standards](./04-Architecture/API/Request-and-Response-Standards.md)
 - [Error Architecture](./04-Architecture/API/Error-Architecture.md)
+- [API Versioning and Compatibility](./04-Architecture/API/API-Versioning-and-Compatibility.md)
 
 ### Development
 
