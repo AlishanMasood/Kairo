@@ -46,6 +46,7 @@ API architecture bridges business capabilities and developer experience. It esta
 | 11 | [Webhook Architecture](./Webhook-Architecture.md) | Outbound and inbound webhook delivery, signing, retry |
 | 12 | [API Documentation and SDK Architecture](./API-Documentation-and-SDK-Architecture.md) | Documentation, discoverability, SDKs, developer portal |
 | 13 | [API Governance and Lifecycle](./API-Governance-and-Lifecycle.md) | Ownership, reviews, release gates, deprecation, retirement |
+| 14 | [API Impact Matrix](./API-Impact-Matrix.md) | Master traceability, ownership, and implementation impact |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -73,6 +74,7 @@ Before reading this folder, the following documents should be understood:
 - [Webhook-Architecture.md](./Webhook-Architecture.md) — Inbound and outbound webhook architecture
 - [API-Documentation-and-SDK-Architecture.md](./API-Documentation-and-SDK-Architecture.md) — Documentation, SDKs, and developer portal architecture
 - [API-Governance-and-Lifecycle.md](./API-Governance-and-Lifecycle.md) — API governance, ownership, and lifecycle management
+- [API-Impact-Matrix.md](./API-Impact-Matrix.md) — API architecture traceability and impact matrix
 
 ## Lifecycle Status
 
@@ -91,3 +93,22 @@ This phase is complete when:
 - SDK generation direction is identified without prescribing tooling.
 - No concrete endpoints, DTOs, or implementation code have been introduced.
 - Future API evolution is identified without entering V1.
+
+## Phase Completion Checklist
+
+| # | Document | Status | Validates |
+|---|----------|:---:|---|
+| 1 | [API Architecture](./API-Architecture.md) | Done | Foundation, philosophy, principles, ownership |
+| 2 | [API Surfaces and Boundaries](./API-Surfaces-and-Boundaries.md) | Done | Surfaces, consumers, trust, boundaries |
+| 3 | [API Contract Standards](./API-Contract-Standards.md) | Done | Field naming, types, money, time, compatibility |
+| 4 | [Resource and Operation Modeling](./Resource-and-Operation-Modeling.md) | Done | Resources, commands, queries, state transitions |
+| 5 | [Request and Response Standards](./Request-and-Response-Standards.md) | Done | Envelope, status codes, collections, async |
+| 6 | [Error Architecture](./Error-Architecture.md) | Done | Error categories, codes, retryability, disclosure |
+| 7 | [API Versioning and Compatibility](./API-Versioning-and-Compatibility.md) | Done | Versioning, breaking changes, deprecation |
+| 8 | [Pagination, Filtering, Sorting, and Search](./Pagination-Filtering-Sorting-and-Search.md) | Done | Collections, pagination, filtering, search |
+| 9 | [Idempotency, Concurrency, and Retries](./Idempotency-Concurrency-and-Retries.md) | Done | Idempotency, concurrency, retry semantics |
+| 10 | [Bulk and Asynchronous Operations](./Bulk-and-Asynchronous-Operations.md) | Done | Bulk processing, async lifecycle, imports/exports |
+| 11 | [Webhook Architecture](./Webhook-Architecture.md) | Done | Outbound/inbound webhooks, signing, retry |
+| 12 | [API Documentation and SDK Architecture](./API-Documentation-and-SDK-Architecture.md) | Done | Documentation, SDKs, developer portal |
+| 13 | [API Governance and Lifecycle](./API-Governance-and-Lifecycle.md) | Done | Ownership, reviews, governance, lifecycle |
+| 14 | [API Impact Matrix](./API-Impact-Matrix.md) | Done | Traceability, impact, completeness |
