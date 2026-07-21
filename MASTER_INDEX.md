@@ -196,6 +196,7 @@ Different document categories evolve at different rates:
 - [Event Architecture](./04-Architecture/Events/Event-Architecture.md)
 - [Event Taxonomy and Ownership](./04-Architecture/Events/Event-Taxonomy-and-Ownership.md)
 - [Event Contract Standards](./04-Architecture/Events/Event-Contract-Standards.md)
+- [Domain Event Architecture](./04-Architecture/Events/Domain-Event-Architecture.md)
 
 ### Development
 
