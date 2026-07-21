@@ -36,6 +36,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 1 | [Event Architecture](./Event-Architecture.md) | Foundation — purpose, principles, ownership, V1 direction || 2 | [Event Taxonomy and Ownership](./Event-Taxonomy-and-Ownership.md) | Event categories, ownership model, usage boundaries |
 | 3 | [Event Contract Standards](./Event-Contract-Standards.md) | Envelope structure, payload conventions, schema evolution |
 | 4 | [Domain Event Architecture](./Domain-Event-Architecture.md) | Aggregate ownership, event creation, side effects, integration transformation |
+| 5 | [Integration Event Architecture](./Integration-Event-Architecture.md) | Cross-module events, producer/consumer responsibilities, payload design |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -53,6 +54,7 @@ Before reading this folder, the following documents should be understood:
 - [Event-Taxonomy-and-Ownership.md](./Event-Taxonomy-and-Ownership.md) — Event categories, ownership, and usage boundaries
 - [Event-Contract-Standards.md](./Event-Contract-Standards.md) — Event contract standards and schema governance
 - [Domain-Event-Architecture.md](./Domain-Event-Architecture.md) — Domain event architecture and aggregate ownership
+- [Integration-Event-Architecture.md](./Integration-Event-Architecture.md) — Integration event architecture and cross-module communication
 
 ## Lifecycle Status
 
