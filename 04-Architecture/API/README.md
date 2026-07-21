@@ -36,6 +36,7 @@ API architecture bridges business capabilities and developer experience. It esta
 |-------|----------|---------|
 | 1 | [API Architecture](./API-Architecture.md) | Foundation — philosophy, surfaces, principles, ownership || 2 | [API Surfaces and Boundaries](./API-Surfaces-and-Boundaries.md) | Surfaces, consumers, trust levels, and boundary enforcement |
 | 3 | [API Contract Standards](./API-Contract-Standards.md) | Field naming, types, money, time, identifiers, compatibility rules |
+| 4 | [Resource and Operation Modeling](./Resource-and-Operation-Modeling.md) | Resources, commands, queries, state transitions, business actions |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -53,6 +54,7 @@ Before reading this folder, the following documents should be understood:
 - [API-Architecture.md](./API-Architecture.md) — API architecture foundation
 - [API-Surfaces-and-Boundaries.md](./API-Surfaces-and-Boundaries.md) — API surfaces, consumers, trust levels, and boundaries
 - [API-Contract-Standards.md](./API-Contract-Standards.md) — API contract standards and conventions
+- [Resource-and-Operation-Modeling.md](./Resource-and-Operation-Modeling.md) — Resource and operation modeling patterns
 
 ## Lifecycle Status
 

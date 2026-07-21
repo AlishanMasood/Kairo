@@ -181,6 +181,7 @@ Different document categories evolve at different rates:
 - [API Architecture](./04-Architecture/API/API-Architecture.md)
 - [API Surfaces and Boundaries](./04-Architecture/API/API-Surfaces-and-Boundaries.md)
 - [API Contract Standards](./04-Architecture/API/API-Contract-Standards.md)
+- [Resource and Operation Modeling](./04-Architecture/API/Resource-and-Operation-Modeling.md)
 
 ### Development
 
