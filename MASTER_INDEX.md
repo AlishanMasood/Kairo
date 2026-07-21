@@ -180,6 +180,7 @@ Different document categories evolve at different rates:
 - [Data Architecture Phase Review](./04-Architecture/Data/Phase-Review.md)
 - [API Architecture](./04-Architecture/API/API-Architecture.md)
 - [API Surfaces and Boundaries](./04-Architecture/API/API-Surfaces-and-Boundaries.md)
+- [API Contract Standards](./04-Architecture/API/API-Contract-Standards.md)
 
 ### Development
 
