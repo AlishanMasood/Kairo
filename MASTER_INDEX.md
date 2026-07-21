@@ -193,6 +193,7 @@ Different document categories evolve at different rates:
 - [API Governance and Lifecycle](./04-Architecture/API/API-Governance-and-Lifecycle.md)
 - [API Impact Matrix](./04-Architecture/API/API-Impact-Matrix.md)
 - [API Architecture Phase Review](./04-Architecture/API/Phase-Review.md)
+- [Event Architecture](./04-Architecture/Events/Event-Architecture.md)
 
 ### Development
 

@@ -43,6 +43,7 @@ This folder contains system architecture documentation, technical designs, and s
 - [Multi-Tenancy/](./Multi-Tenancy/) — Multi-tenancy architecture
 - [Data/](./Data/) — Data architecture
 - [API/](./API/) — API architecture
+- [Events/](./Events/) — Event-driven architecture
 
 ## Status
 
