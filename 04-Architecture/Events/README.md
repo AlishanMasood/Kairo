@@ -33,8 +33,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| 1 | [Event Architecture](./Event-Architecture.md) | Foundation — purpose, principles, ownership, V1 direction |
-
+| 1 | [Event Architecture](./Event-Architecture.md) | Foundation — purpose, principles, ownership, V1 direction || 2 | [Event Taxonomy and Ownership](./Event-Taxonomy-and-Ownership.md) | Event categories, ownership model, usage boundaries |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -49,6 +48,7 @@ Before reading this folder, the following documents should be understood:
 ## Contents
 
 - [Event-Architecture.md](./Event-Architecture.md) — Event architecture foundation
+- [Event-Taxonomy-and-Ownership.md](./Event-Taxonomy-and-Ownership.md) — Event categories, ownership, and usage boundaries
 
 ## Lifecycle Status
 
