@@ -43,6 +43,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 9 | [Retry, Dead-Letter, and Recovery](./Retry-Dead-Letter-and-Recovery.md) | Failure handling, retry, dead-letter, quarantine, recovery |
 | 10 | [Event Security and Tenant Context](./Event-Security-and-Tenant-Context.md) | Trust boundaries, tenant isolation, sensitive data, threat mitigation |
 | 11 | [Event Versioning and Compatibility](./Event-Versioning-and-Compatibility.md) | Schema evolution, breaking changes, deprecation, replay compatibility |
+| 12 | [Event Observability and Auditing](./Event-Observability-and-Auditing.md) | Monitoring, metrics, logging, auditing, alerting, correlation |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -67,6 +68,7 @@ Before reading this folder, the following documents should be understood:
 - [Retry-Dead-Letter-and-Recovery.md](./Retry-Dead-Letter-and-Recovery.md) — Retry, dead-letter, quarantine, and recovery architecture
 - [Event-Security-and-Tenant-Context.md](./Event-Security-and-Tenant-Context.md) — Event security, trust, tenant isolation, and sensitive data
 - [Event-Versioning-and-Compatibility.md](./Event-Versioning-and-Compatibility.md) — Event contract versioning, compatibility, and deprecation
+- [Event-Observability-and-Auditing.md](./Event-Observability-and-Auditing.md) — Event observability, monitoring, and audit architecture
 
 ## Lifecycle Status
 
