@@ -38,6 +38,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 4 | [Domain Event Architecture](./Domain-Event-Architecture.md) | Aggregate ownership, event creation, side effects, integration transformation |
 | 5 | [Integration Event Architecture](./Integration-Event-Architecture.md) | Cross-module events, producer/consumer responsibilities, payload design |
 | 6 | [Event Publishing and Outbox](./Event-Publishing-and-Outbox.md) | Transactional outbox, reliable publication, dual-write prevention |
+| 7 | [Event Consumption and Inbox](./Event-Consumption-and-Inbox.md) | Reliable consumption, deduplication, inbox, poison-event handling |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -57,6 +58,7 @@ Before reading this folder, the following documents should be understood:
 - [Domain-Event-Architecture.md](./Domain-Event-Architecture.md) — Domain event architecture and aggregate ownership
 - [Integration-Event-Architecture.md](./Integration-Event-Architecture.md) — Integration event architecture and cross-module communication
 - [Event-Publishing-and-Outbox.md](./Event-Publishing-and-Outbox.md) — Transactional outbox and reliable event publication
+- [Event-Consumption-and-Inbox.md](./Event-Consumption-and-Inbox.md) — Reliable event consumption, deduplication, and inbox
 
 ## Lifecycle Status
 

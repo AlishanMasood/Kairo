@@ -199,6 +199,7 @@ Different document categories evolve at different rates:
 - [Domain Event Architecture](./04-Architecture/Events/Domain-Event-Architecture.md)
 - [Integration Event Architecture](./04-Architecture/Events/Integration-Event-Architecture.md)
 - [Event Publishing and Outbox](./04-Architecture/Events/Event-Publishing-and-Outbox.md)
+- [Event Consumption and Inbox](./04-Architecture/Events/Event-Consumption-and-Inbox.md)
 
 ### Development
 
