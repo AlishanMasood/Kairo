@@ -203,6 +203,7 @@ Different document categories evolve at different rates:
 - [Delivery, Ordering, and Consistency](./04-Architecture/Events/Delivery-Ordering-and-Consistency.md)
 - [Retry, Dead-Letter, and Recovery](./04-Architecture/Events/Retry-Dead-Letter-and-Recovery.md)
 - [Event Security and Tenant Context](./04-Architecture/Events/Event-Security-and-Tenant-Context.md)
+- [Event Versioning and Compatibility](./04-Architecture/Events/Event-Versioning-and-Compatibility.md)
 
 ### Development
 
