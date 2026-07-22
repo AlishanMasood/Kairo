@@ -200,6 +200,7 @@ Different document categories evolve at different rates:
 - [Integration Event Architecture](./04-Architecture/Events/Integration-Event-Architecture.md)
 - [Event Publishing and Outbox](./04-Architecture/Events/Event-Publishing-and-Outbox.md)
 - [Event Consumption and Inbox](./04-Architecture/Events/Event-Consumption-and-Inbox.md)
+- [Delivery, Ordering, and Consistency](./04-Architecture/Events/Delivery-Ordering-and-Consistency.md)
 
 ### Development
 

@@ -39,6 +39,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 5 | [Integration Event Architecture](./Integration-Event-Architecture.md) | Cross-module events, producer/consumer responsibilities, payload design |
 | 6 | [Event Publishing and Outbox](./Event-Publishing-and-Outbox.md) | Transactional outbox, reliable publication, dual-write prevention |
 | 7 | [Event Consumption and Inbox](./Event-Consumption-and-Inbox.md) | Reliable consumption, deduplication, inbox, poison-event handling |
+| 8 | [Delivery, Ordering, and Consistency](./Delivery-Ordering-and-Consistency.md) | Delivery guarantees, ordering expectations, consistency semantics |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -59,6 +60,7 @@ Before reading this folder, the following documents should be understood:
 - [Integration-Event-Architecture.md](./Integration-Event-Architecture.md) — Integration event architecture and cross-module communication
 - [Event-Publishing-and-Outbox.md](./Event-Publishing-and-Outbox.md) — Transactional outbox and reliable event publication
 - [Event-Consumption-and-Inbox.md](./Event-Consumption-and-Inbox.md) — Reliable event consumption, deduplication, and inbox
+- [Delivery-Ordering-and-Consistency.md](./Delivery-Ordering-and-Consistency.md) — Delivery guarantees, ordering, and consistency semantics
 
 ## Lifecycle Status
 
