@@ -45,6 +45,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 11 | [Event Versioning and Compatibility](./Event-Versioning-and-Compatibility.md) | Schema evolution, breaking changes, deprecation, replay compatibility |
 | 12 | [Event Observability and Auditing](./Event-Observability-and-Auditing.md) | Monitoring, metrics, logging, auditing, alerting, correlation |
 | 13 | [Event Governance and Lifecycle](./Event-Governance-and-Lifecycle.md) | Ownership, reviews, approval, deprecation, retirement, proliferation control |
+| 14 | [Event Impact Matrix](./Event-Impact-Matrix.md) | Master traceability, ownership, and implementation impact |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -71,6 +72,7 @@ Before reading this folder, the following documents should be understood:
 - [Event-Versioning-and-Compatibility.md](./Event-Versioning-and-Compatibility.md) — Event contract versioning, compatibility, and deprecation
 - [Event-Observability-and-Auditing.md](./Event-Observability-and-Auditing.md) — Event observability, monitoring, and audit architecture
 - [Event-Governance-and-Lifecycle.md](./Event-Governance-and-Lifecycle.md) — Event governance, ownership, and lifecycle management
+- [Event-Impact-Matrix.md](./Event-Impact-Matrix.md) — Event architecture traceability and impact matrix
 
 ## Lifecycle Status
 
@@ -89,3 +91,22 @@ This phase is complete when:
 - V1 event architecture aligns with the modular monolith strategy.
 - No broker technology, queue names, or implementation code have been introduced.
 - Future distributed evolution is identified without entering V1.
+
+## Phase Completion Checklist
+
+| # | Document | Status | Validates |
+|---|----------|:---:|---|
+| 1 | [Event Architecture](./Event-Architecture.md) | Done | Foundation, purpose, principles, V1 direction |
+| 2 | [Event Taxonomy and Ownership](./Event-Taxonomy-and-Ownership.md) | Done | Categories, ownership, usage boundaries |
+| 3 | [Event Contract Standards](./Event-Contract-Standards.md) | Done | Envelope, payload, naming, types, versioning |
+| 4 | [Domain Event Architecture](./Domain-Event-Architecture.md) | Done | Aggregate ownership, creation, side effects |
+| 5 | [Integration Event Architecture](./Integration-Event-Architecture.md) | Done | Cross-module, producer/consumer, payload |
+| 6 | [Event Publishing and Outbox](./Event-Publishing-and-Outbox.md) | Done | Outbox, atomicity, publication worker |
+| 7 | [Event Consumption and Inbox](./Event-Consumption-and-Inbox.md) | Done | Deduplication, inbox, poison events |
+| 8 | [Delivery, Ordering, and Consistency](./Delivery-Ordering-and-Consistency.md) | Done | Guarantees, ordering, eventual consistency |
+| 9 | [Retry, Dead-Letter, and Recovery](./Retry-Dead-Letter-and-Recovery.md) | Done | Failure handling, retry, dead-letter, recovery |
+| 10 | [Event Security and Tenant Context](./Event-Security-and-Tenant-Context.md) | Done | Trust, isolation, sensitive data, threats |
+| 11 | [Event Versioning and Compatibility](./Event-Versioning-and-Compatibility.md) | Done | Schema evolution, breaking changes, replay |
+| 12 | [Event Observability and Auditing](./Event-Observability-and-Auditing.md) | Done | Monitoring, metrics, logging, auditing |
+| 13 | [Event Governance and Lifecycle](./Event-Governance-and-Lifecycle.md) | Done | Ownership, reviews, governance, retirement |
+| 14 | [Event Impact Matrix](./Event-Impact-Matrix.md) | Done | Traceability, impact, completeness |

@@ -206,6 +206,7 @@ Different document categories evolve at different rates:
 - [Event Versioning and Compatibility](./04-Architecture/Events/Event-Versioning-and-Compatibility.md)
 - [Event Observability and Auditing](./04-Architecture/Events/Event-Observability-and-Auditing.md)
 - [Event Governance and Lifecycle](./04-Architecture/Events/Event-Governance-and-Lifecycle.md)
+- [Event Impact Matrix](./04-Architecture/Events/Event-Impact-Matrix.md)
 
 ### Development
 
