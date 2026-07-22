@@ -205,6 +205,7 @@ Different document categories evolve at different rates:
 - [Event Security and Tenant Context](./04-Architecture/Events/Event-Security-and-Tenant-Context.md)
 - [Event Versioning and Compatibility](./04-Architecture/Events/Event-Versioning-and-Compatibility.md)
 - [Event Observability and Auditing](./04-Architecture/Events/Event-Observability-and-Auditing.md)
+- [Event Governance and Lifecycle](./04-Architecture/Events/Event-Governance-and-Lifecycle.md)
 
 ### Development
 
