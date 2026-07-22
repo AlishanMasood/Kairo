@@ -41,6 +41,7 @@ Event architecture bridges the gap between module autonomy and system-wide coord
 | 7 | [Event Consumption and Inbox](./Event-Consumption-and-Inbox.md) | Reliable consumption, deduplication, inbox, poison-event handling |
 | 8 | [Delivery, Ordering, and Consistency](./Delivery-Ordering-and-Consistency.md) | Delivery guarantees, ordering expectations, consistency semantics |
 | 9 | [Retry, Dead-Letter, and Recovery](./Retry-Dead-Letter-and-Recovery.md) | Failure handling, retry, dead-letter, quarantine, recovery |
+| 10 | [Event Security and Tenant Context](./Event-Security-and-Tenant-Context.md) | Trust boundaries, tenant isolation, sensitive data, threat mitigation |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -63,6 +64,7 @@ Before reading this folder, the following documents should be understood:
 - [Event-Consumption-and-Inbox.md](./Event-Consumption-and-Inbox.md) — Reliable event consumption, deduplication, and inbox
 - [Delivery-Ordering-and-Consistency.md](./Delivery-Ordering-and-Consistency.md) — Delivery guarantees, ordering, and consistency semantics
 - [Retry-Dead-Letter-and-Recovery.md](./Retry-Dead-Letter-and-Recovery.md) — Retry, dead-letter, quarantine, and recovery architecture
+- [Event-Security-and-Tenant-Context.md](./Event-Security-and-Tenant-Context.md) — Event security, trust, tenant isolation, and sensitive data
 
 ## Lifecycle Status
 
