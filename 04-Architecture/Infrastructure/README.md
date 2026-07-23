@@ -40,6 +40,7 @@ Infrastructure architecture bridges application architecture and operational rea
 |-------|----------|---------|
 | 1 | [Infrastructure Architecture](./Infrastructure-Architecture.md) | Foundation — principles, workloads, boundaries, V1 direction || 2 | [Environment Architecture](./Environment-Architecture.md) | Environments, isolation, promotion, data rules |
 | 3 | [Hosting and Runtime Architecture](./Hosting-and-Runtime-Architecture.md) | Workloads, processes, scaling, isolation |
+| 4 | [Network and Trust Boundaries](./Network-and-Trust-Boundaries.md) | Network zones, ingress, egress, trust boundaries, access rules |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -57,6 +58,7 @@ Before reading this folder, the following documents should be understood:
 - [Infrastructure-Architecture.md](./Infrastructure-Architecture.md) — Infrastructure architecture foundation
 - [Environment-Architecture.md](./Environment-Architecture.md) — Environment isolation, promotion, and data rules
 - [Hosting-and-Runtime-Architecture.md](./Hosting-and-Runtime-Architecture.md) — Workload categories, hosting, and runtime topology
+- [Network-and-Trust-Boundaries.md](./Network-and-Trust-Boundaries.md) — Network zones, trust boundaries, and access rules
 
 ## Lifecycle Status
 

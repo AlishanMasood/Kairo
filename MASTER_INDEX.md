@@ -211,6 +211,7 @@ Different document categories evolve at different rates:
 - [Infrastructure Architecture](./04-Architecture/Infrastructure/Infrastructure-Architecture.md)
 - [Environment Architecture](./04-Architecture/Infrastructure/Environment-Architecture.md)
 - [Hosting and Runtime Architecture](./04-Architecture/Infrastructure/Hosting-and-Runtime-Architecture.md)
+- [Network and Trust Boundaries](./04-Architecture/Infrastructure/Network-and-Trust-Boundaries.md)
 
 ### Development
 
