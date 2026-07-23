@@ -214,6 +214,7 @@ Different document categories evolve at different rates:
 - [Network and Trust Boundaries](./04-Architecture/Infrastructure/Network-and-Trust-Boundaries.md)
 - [Container and Workload Architecture](./04-Architecture/Infrastructure/Container-and-Workload-Architecture.md)
 - [Runtime Configuration and Secrets](./04-Architecture/Infrastructure/Runtime-Configuration-and-Secrets.md)
+- [CI/CD and Deployment Architecture](./04-Architecture/Infrastructure/CI-CD-and-Deployment-Architecture.md)
 
 ### Development
 
