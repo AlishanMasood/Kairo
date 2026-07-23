@@ -44,6 +44,7 @@ Infrastructure architecture bridges application architecture and operational rea
 | 5 | [Container and Workload Architecture](./Container-and-Workload-Architecture.md) | Container packaging, immutability, security, health, promotion |
 | 6 | [Runtime Configuration and Secrets](./Runtime-Configuration-and-Secrets.md) | Configuration delivery, secrets lifecycle, validation, governance |
 | 7 | [CI/CD and Deployment Architecture](./CI-CD-and-Deployment-Architecture.md) | Pipeline stages, artifact flow, deployment gates, supply-chain security |
+| 8 | [Release and Rollback Architecture](./Release-and-Rollback-Architecture.md) | Release strategies, rollout validation, rollback, compatibility |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -65,6 +66,7 @@ Before reading this folder, the following documents should be understood:
 - [Container-and-Workload-Architecture.md](./Container-and-Workload-Architecture.md) — Container packaging, security, and workload management
 - [Runtime-Configuration-and-Secrets.md](./Runtime-Configuration-and-Secrets.md) — Runtime configuration, secrets lifecycle, and governance
 - [CI-CD-and-Deployment-Architecture.md](./CI-CD-and-Deployment-Architecture.md) — CI/CD pipeline, deployment gates, and artifact promotion
+- [Release-and-Rollback-Architecture.md](./Release-and-Rollback-Architecture.md) — Release strategies, rollback, and compatibility
 
 ## Lifecycle Status
 
