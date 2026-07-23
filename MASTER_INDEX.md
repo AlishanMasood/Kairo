@@ -216,6 +216,7 @@ Different document categories evolve at different rates:
 - [Runtime Configuration and Secrets](./04-Architecture/Infrastructure/Runtime-Configuration-and-Secrets.md)
 - [CI/CD and Deployment Architecture](./04-Architecture/Infrastructure/CI-CD-and-Deployment-Architecture.md)
 - [Release and Rollback Architecture](./04-Architecture/Infrastructure/Release-and-Rollback-Architecture.md)
+- [Availability and Resilience Architecture](./04-Architecture/Infrastructure/Availability-and-Resilience-Architecture.md)
 
 ### Development
 
