@@ -44,6 +44,7 @@ This folder contains system architecture documentation, technical designs, and s
 - [Data/](./Data/) — Data architecture
 - [API/](./API/) — API architecture
 - [Events/](./Events/) — Event-driven architecture
+- [Infrastructure/](./Infrastructure/) — Infrastructure architecture
 
 ## Status
 
