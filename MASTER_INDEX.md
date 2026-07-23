@@ -213,6 +213,7 @@ Different document categories evolve at different rates:
 - [Hosting and Runtime Architecture](./04-Architecture/Infrastructure/Hosting-and-Runtime-Architecture.md)
 - [Network and Trust Boundaries](./04-Architecture/Infrastructure/Network-and-Trust-Boundaries.md)
 - [Container and Workload Architecture](./04-Architecture/Infrastructure/Container-and-Workload-Architecture.md)
+- [Runtime Configuration and Secrets](./04-Architecture/Infrastructure/Runtime-Configuration-and-Secrets.md)
 
 ### Development
 

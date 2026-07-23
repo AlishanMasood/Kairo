@@ -42,6 +42,7 @@ Infrastructure architecture bridges application architecture and operational rea
 | 3 | [Hosting and Runtime Architecture](./Hosting-and-Runtime-Architecture.md) | Workloads, processes, scaling, isolation |
 | 4 | [Network and Trust Boundaries](./Network-and-Trust-Boundaries.md) | Network zones, ingress, egress, trust boundaries, access rules |
 | 5 | [Container and Workload Architecture](./Container-and-Workload-Architecture.md) | Container packaging, immutability, security, health, promotion |
+| 6 | [Runtime Configuration and Secrets](./Runtime-Configuration-and-Secrets.md) | Configuration delivery, secrets lifecycle, validation, governance |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -61,6 +62,7 @@ Before reading this folder, the following documents should be understood:
 - [Hosting-and-Runtime-Architecture.md](./Hosting-and-Runtime-Architecture.md) — Workload categories, hosting, and runtime topology
 - [Network-and-Trust-Boundaries.md](./Network-and-Trust-Boundaries.md) — Network zones, trust boundaries, and access rules
 - [Container-and-Workload-Architecture.md](./Container-and-Workload-Architecture.md) — Container packaging, security, and workload management
+- [Runtime-Configuration-and-Secrets.md](./Runtime-Configuration-and-Secrets.md) — Runtime configuration, secrets lifecycle, and governance
 
 ## Lifecycle Status
 
