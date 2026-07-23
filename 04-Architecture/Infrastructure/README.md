@@ -48,6 +48,7 @@ Infrastructure architecture bridges application architecture and operational rea
 | 9 | [Availability and Resilience Architecture](./Availability-and-Resilience-Architecture.md) | Availability targets, failure isolation, resilience patterns, degradation |
 | 10 | [Scaling and Capacity Architecture](./Scaling-and-Capacity-Architecture.md) | Capacity planning, scaling patterns, noisy-neighbor, cost management |
 | 11 | [Infrastructure Observability](./Infrastructure-Observability.md) | Logs, metrics, traces, alerting, dashboards, operational visibility |
+| 12 | [Infrastructure Backup and Disaster Recovery](./Infrastructure-Backup-and-Disaster-Recovery.md) | Backup, restoration, continuity, disaster recovery |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -73,6 +74,7 @@ Before reading this folder, the following documents should be understood:
 - [Availability-and-Resilience-Architecture.md](./Availability-and-Resilience-Architecture.md) — Availability, resilience patterns, and graceful degradation
 - [Scaling-and-Capacity-Architecture.md](./Scaling-and-Capacity-Architecture.md) — Capacity planning, scaling, and noisy-neighbor controls
 - [Infrastructure-Observability.md](./Infrastructure-Observability.md) — Logs, metrics, alerting, dashboards, and operational visibility
+- [Infrastructure-Backup-and-Disaster-Recovery.md](./Infrastructure-Backup-and-Disaster-Recovery.md) — Backup, restoration, and disaster recovery
 
 ## Lifecycle Status
 

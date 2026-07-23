@@ -219,6 +219,7 @@ Different document categories evolve at different rates:
 - [Availability and Resilience Architecture](./04-Architecture/Infrastructure/Availability-and-Resilience-Architecture.md)
 - [Scaling and Capacity Architecture](./04-Architecture/Infrastructure/Scaling-and-Capacity-Architecture.md)
 - [Infrastructure Observability](./04-Architecture/Infrastructure/Infrastructure-Observability.md)
+- [Infrastructure Backup and Disaster Recovery](./04-Architecture/Infrastructure/Infrastructure-Backup-and-Disaster-Recovery.md)
 
 ### Development
 
