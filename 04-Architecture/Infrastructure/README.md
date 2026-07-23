@@ -46,6 +46,7 @@ Infrastructure architecture bridges application architecture and operational rea
 | 7 | [CI/CD and Deployment Architecture](./CI-CD-and-Deployment-Architecture.md) | Pipeline stages, artifact flow, deployment gates, supply-chain security |
 | 8 | [Release and Rollback Architecture](./Release-and-Rollback-Architecture.md) | Release strategies, rollout validation, rollback, compatibility |
 | 9 | [Availability and Resilience Architecture](./Availability-and-Resilience-Architecture.md) | Availability targets, failure isolation, resilience patterns, degradation |
+| 10 | [Scaling and Capacity Architecture](./Scaling-and-Capacity-Architecture.md) | Capacity planning, scaling patterns, noisy-neighbor, cost management |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -69,6 +70,7 @@ Before reading this folder, the following documents should be understood:
 - [CI-CD-and-Deployment-Architecture.md](./CI-CD-and-Deployment-Architecture.md) — CI/CD pipeline, deployment gates, and artifact promotion
 - [Release-and-Rollback-Architecture.md](./Release-and-Rollback-Architecture.md) — Release strategies, rollback, and compatibility
 - [Availability-and-Resilience-Architecture.md](./Availability-and-Resilience-Architecture.md) — Availability, resilience patterns, and graceful degradation
+- [Scaling-and-Capacity-Architecture.md](./Scaling-and-Capacity-Architecture.md) — Capacity planning, scaling, and noisy-neighbor controls
 
 ## Lifecycle Status
 
