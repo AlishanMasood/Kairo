@@ -209,6 +209,7 @@ Different document categories evolve at different rates:
 - [Event Impact Matrix](./04-Architecture/Events/Event-Impact-Matrix.md)
 - [Event Architecture Phase Review](./04-Architecture/Events/Phase-Review.md)
 - [Infrastructure Architecture](./04-Architecture/Infrastructure/Infrastructure-Architecture.md)
+- [Environment Architecture](./04-Architecture/Infrastructure/Environment-Architecture.md)
 
 ### Development
 

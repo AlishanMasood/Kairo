@@ -38,8 +38,7 @@ Infrastructure architecture bridges application architecture and operational rea
 
 | Order | Document | Purpose |
 |-------|----------|---------|
-| 1 | [Infrastructure Architecture](./Infrastructure-Architecture.md) | Foundation — principles, workloads, boundaries, V1 direction |
-
+| 1 | [Infrastructure Architecture](./Infrastructure-Architecture.md) | Foundation — principles, workloads, boundaries, V1 direction || 2 | [Environment Architecture](./Environment-Architecture.md) | Environments, isolation, promotion, data rules |
 ## Prerequisites
 
 Before reading this folder, the following documents should be understood:
@@ -55,6 +54,7 @@ Before reading this folder, the following documents should be understood:
 ## Contents
 
 - [Infrastructure-Architecture.md](./Infrastructure-Architecture.md) — Infrastructure architecture foundation
+- [Environment-Architecture.md](./Environment-Architecture.md) — Environment isolation, promotion, and data rules
 
 ## Lifecycle Status
 
